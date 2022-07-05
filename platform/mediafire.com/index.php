@@ -50,7 +50,7 @@
 <script>
     
 function grab() {
- let i = 'https://wholly-api.herokuapp.com/platform/mediafire.com/direct_download.php?id='+document.getElementById('url').value.split("/")[4]+'';
+ let i = 'https://marshubs.github.io/platform/mediafire.com/direct_download.php?id='+document.getElementById('url').value.split("/")[4]+'';
 document.getElementById('url').value = i;
 }
 </script>
