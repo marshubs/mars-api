@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Mars API - Get Free APIs of Many Website - Public or Scrapped - Use even from JavaScript</title>
+  <title>Mars API - Get Free APIs of Many Website - Public or Scrapped - Use even from JavaScript</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="style.css">
 <link rel="shortcut icon" href="logo.png" type="image/x-icon">
